@@ -33,7 +33,7 @@ Loop
 		maximum = Finish/10.0
 	(The start and finish values will be used as the start and stop of the next loop)
 	If the minimum < maximum, maximum < 90 and minimum > = 0 then create 
-		The “Table of Tangents”
+		The â€œTable of Tangentsâ€
 				Output 0 1 2 3 4 5 6 7 8 9 to label the hundredth place decimal
 				Output --------------------- as a separator 
 		Loop (as long as start < = finish, add 1 to start) 
@@ -52,7 +52,7 @@ Loop
 				Move to next line
 		End Loop
 	Else 
-		Output “The table generation has been halted.”
+		Output â€œThe table generation has been halted.â€
 		Use break to end the loop.
 End of Loop
 
