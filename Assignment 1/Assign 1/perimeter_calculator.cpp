@@ -31,8 +31,8 @@ Step 2
 Step 3
 	Output
 		Print first and last name labeled as user name on line 1
-		Print the word Area followed by it’s calculation on line 2
-		Print the word Perimeter followed by it’s calculation on line 3 */
+		Print the word Area followed by itâ€™s calculation on line 2
+		Print the word Perimeter followed by itâ€™s calculation on line 3 */
 /************************ End of Algorithm *********************************************************/
 /************ Code segment ******************************************/
 #include <iostream>
